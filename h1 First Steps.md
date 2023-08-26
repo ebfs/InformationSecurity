@@ -1,6 +1,6 @@
-# Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains 
+# First Steps
 
-## Summary
+## Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains: A Summary
 
 Advanced Persistent Threats (APTs) are a new domain of threats that threaten sensitive areas. APTs are able to circumvent traditional securities placed into networks. Traditionally, security measures are knowledgable of previous efforts and methods, and build their security capabilities upon previous attempts. The kill chain model offers insight into how an adversary performs an attack, and understanding the adversary allows us to identify our weak spots and reinforce them. Alternatively, we can also use the kill chain to identify our adversary and engage them. 
 
@@ -27,3 +27,8 @@ Zero-day exploits are so called as they are entirely fresh exploits that have re
 Defenders must stay constantly vigilant of security threats and exploits, as new exploits are identified over time. Likewise, old exploits can be re-used as new techniques are adopted for different stages of the cyber kill chain, in order to circumvent existing courses of action defenses.
 
 Hutchins et al. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+
+# Fundaments of Security
+
+What I consider the fundaments of security are identifying why something needs to be secure, how that something will or should be secured, and the effectiveness of theose security measures. The objective of security is to provide a safe environment for that which should be secured. If something that should be secured cannot be secured, we must atleast identify how it could be accessed, and have contingency plans in place in case of a breach. 
+
