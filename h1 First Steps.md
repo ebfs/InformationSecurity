@@ -28,7 +28,7 @@ Defenders must stay constantly vigilant of security threats and exploits, as new
 
 Hutchins et al. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
-# Fundaments of Security
+## Fundaments of Security
 
 What I consider the fundaments of security are identifying why something needs to be secure, how that something will or should be secured, and the effectiveness of theose security measures. The objective of security is to provide a safe environment for that which should be secured. If something that should be secured cannot be secured, we must atleast identify how it could be accessed, and have contingency plans in place in case of a breach. 
 
