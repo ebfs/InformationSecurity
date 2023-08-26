@@ -26,7 +26,7 @@ Zero-day exploits are so called as they are entirely fresh exploits that have re
 
 Defenders must stay constantly vigilant of security threats and exploits, as new exploits are identified over time. Likewise, old exploits can be re-used as new techniques are adopted for different stages of the cyber kill chain, in order to circumvent existing courses of action defenses.
 
-Hutchins et al. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+* Hutchins et al. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
 ## Ep 47. Project Raven
 
