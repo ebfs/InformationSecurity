@@ -18,4 +18,12 @@ Each link in the chain leads to the next stage, and inability to succeed in any 
 
 6. Command & Control: Secure remote access on the targeted system. 
 
-7. Actions on Objectives: The objectives set to be accomplished are acted upon. 
+7. Actions on Objectives: The objectives set to be accomplished are acted upon.
+
+As mentioned above, the cyber kill chain can be used by defenders to identify areas within their own framework that can be improved and fortified, and plug any weak spots. Understanding how an enemy might attack the defender is crucial for pre-emptive defense. The paper by Hutchins et al. illustrates a matrix on courses of action which identifies what stages of the cyber kill chain can be detected, denied, disrupted, degraded, deceived, or destroyed. The matrix shows methods that defenders can employ to protect themselves from hostile actors.
+
+Zero-day exploits are so called as they are entirely fresh exploits that have recently been identified, and there is roughly 'zero days' to fix the vulnerability. They are aptly named for their urgency. If an zero-day exploit or zero-day attack work in tandem with previously identified weaknesses, they are more likely to be ineffective in achieving the objective set out to execute.
+
+Defenders must stay constantly vigilant of security threats and exploits, as new exploits are identified over time. Likewise, old exploits can be re-used as new techniques are adopted for different stages of the cyber kill chain, in order to circumvent existing courses of action defenses.
+
+Hutchins et al. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
