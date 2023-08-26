@@ -28,6 +28,26 @@ Defenders must stay constantly vigilant of security threats and exploits, as new
 
 Hutchins et al. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
+## Ep 47. Project Raven
+
+* The host, Jack Rhysider, interviews David, a self-described offensive intelligence analyst. David's job is to investigate foreign actors who try to access US infrastructure.
+* David began his career in the United States Armed Forces, before moving to the NSA. Following this, David is recruited to CyberPoint, a company that is contracted to hack systems.
+* David was assigned to a hacking unit known as 'Project Raven', and were based in the United Arab Emirates.
+* Project Raven would front as an unit focused on defensive cyber measures. In actuality, they conducted offensive cyber operations for the UAE's secret intelligence agency (NISSA).
+* Project Raven would spy on targets and 'vacuum' data from the targets devices without the targets ever knowing they were spied upon.
+* Initially, Project Raven would focus on data exfiltration. Eventually, the UAE government requested Project Raven to gain access to a foreign governments network (to see if they were funding terrorists).
+* Project Raven successfully accessed a VPN portal of the foreign government using default credentials, which were U:administrator and P:administrator.
+* Using this exploit, David's team was able to access IPs and and passwords for other areas of the foreign governments network outside this VPN portal.
+* The UAE government was very keen on all the information that David's team could access, monitor, and learn from.
+* In essence, the legality of everything was extremely murky, and David describes that they were in essence 'cyber-mercenaries'.
+* It was discovered that Project Raven had collected data on US citizens as well, something that did not sit right with David and other employees.
+* The red flags were starting to prop up and David was able to leave Project Raven, although the unit would continue working after David and many other employees left.
+* Project Raven would be used for the UAE's political agenda, which involves suppressing dissent about human rights issues.
+* Rori Donaghy, a human rights activist and journalist who documented human rights issues in UAE, would be among those targeted and succesfully infiltrated by Project Raven.
+* Project Raven and CyberPoint's contract with the UAE would eventually be terminated and replaced with a new contractor known as DarkMatter.
+
+TRANSCRIPT: https://darknetdiaries.com/transcript/47/
+
 ## Fundaments of Security
 
 What I consider the fundaments of security are identifying why something needs to be secure, how that something will or should be secured, and the effectiveness of theose security measures. The objective of security is to provide a safe environment for that which should be secured. If something that should be secured cannot be secured, we must atleast identify how it could be accessed, and have contingency plans in place in case of a breach. 
