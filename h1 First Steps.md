@@ -1,5 +1,7 @@
 # First Steps
 
+https://terokarvinen.com/2023/information-security-2023-autumn/#homework
+
 ## Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains: A Summary
 
 Advanced Persistent Threats (APTs) are a new domain of threats that threaten sensitive areas. APTs are able to circumvent traditional securities placed into networks. Traditionally, security measures are knowledgable of previous efforts and methods, and build their security capabilities upon previous attempts. The kill chain model offers insight into how an adversary performs an attack, and understanding the adversary allows us to identify our weak spots and reinforce them. Alternatively, we can also use the kill chain to identify our adversary and engage them. 
